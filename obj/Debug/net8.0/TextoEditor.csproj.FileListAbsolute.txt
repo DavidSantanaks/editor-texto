@@ -1,0 +1,14 @@
+E:\Curso\C#\curso-balta-c#\TextoEditor\bin\Debug\net8.0\TextoEditor.exe
+E:\Curso\C#\curso-balta-c#\TextoEditor\bin\Debug\net8.0\TextoEditor.deps.json
+E:\Curso\C#\curso-balta-c#\TextoEditor\bin\Debug\net8.0\TextoEditor.runtimeconfig.json
+E:\Curso\C#\curso-balta-c#\TextoEditor\bin\Debug\net8.0\TextoEditor.dll
+E:\Curso\C#\curso-balta-c#\TextoEditor\bin\Debug\net8.0\TextoEditor.pdb
+E:\Curso\C#\curso-balta-c#\TextoEditor\obj\Debug\net8.0\TextoEditor.GeneratedMSBuildEditorConfig.editorconfig
+E:\Curso\C#\curso-balta-c#\TextoEditor\obj\Debug\net8.0\TextoEditor.AssemblyInfoInputs.cache
+E:\Curso\C#\curso-balta-c#\TextoEditor\obj\Debug\net8.0\TextoEditor.AssemblyInfo.cs
+E:\Curso\C#\curso-balta-c#\TextoEditor\obj\Debug\net8.0\TextoEditor.csproj.CoreCompileInputs.cache
+E:\Curso\C#\curso-balta-c#\TextoEditor\obj\Debug\net8.0\TextoEditor.dll
+E:\Curso\C#\curso-balta-c#\TextoEditor\obj\Debug\net8.0\refint\TextoEditor.dll
+E:\Curso\C#\curso-balta-c#\TextoEditor\obj\Debug\net8.0\TextoEditor.pdb
+E:\Curso\C#\curso-balta-c#\TextoEditor\obj\Debug\net8.0\TextoEditor.genruntimeconfig.cache
+E:\Curso\C#\curso-balta-c#\TextoEditor\obj\Debug\net8.0\ref\TextoEditor.dll

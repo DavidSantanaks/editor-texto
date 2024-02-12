@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "TextoEditor/1.0.0": {
+        "runtime": {
+          "TextoEditor.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TextoEditor/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
